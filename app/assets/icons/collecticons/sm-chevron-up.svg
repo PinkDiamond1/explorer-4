@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="collecticon-sm-chevron-up" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16">
-  <rect fill="none" width="16" height="16" />
-  <polygon points="8,4 13.7,9.7 12.3,11.1 8,6.8 3.7,11.1 2.3,9.7" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="collecticon-sm-chevron-up" width="16" height="16" version="1.1" viewBox="0 0 16 16"><rect width="16" height="16" fill="none"/><polygon points="8 4 13.7 9.7 12.3 11.1 8 6.8 3.7 11.1 2.3 9.7"/></svg>

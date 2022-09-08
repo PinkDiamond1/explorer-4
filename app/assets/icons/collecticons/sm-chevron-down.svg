@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="collecticon-sm-chevron-down" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16">
-  <rect fill="none" width="16" height="16" />
-  <path d="M8,12L2.3,6.3l1.4-1.4L8,9.2l4.3-4.3l1.4,1.4L8,12z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="collecticon-sm-chevron-down" width="16" height="16" version="1.1" viewBox="0 0 16 16"><rect width="16" height="16" fill="none"/><path d="M8,12L2.3,6.3l1.4-1.4L8,9.2l4.3-4.3l1.4,1.4L8,12z"/></svg>
